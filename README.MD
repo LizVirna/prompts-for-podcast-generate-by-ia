@@ -12,7 +12,9 @@
 </p>
 
 <div align="center">
-    <audio src="output/Episódio_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Episódio_editado.MP3" controls title="Podcast editado">
+        Your browser does not support the audio element.
+    </audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
